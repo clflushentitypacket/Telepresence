@@ -9,7 +9,7 @@ Telepresence is an open-source demo showcasing the viability of augmented realit
 Suppose we have two people, Tom and Jerry. Telepresence allows Tom and Jerry to communicate with each other in a similar way to video chat. The difference is that Tom will appear right in front of Jerry (and vice versa) as a Holographic avatar via Jerry's iPhone's augmented reality capabilities. Here is a video demonstration of Telepresence in action: https://www.youtube.com/watch?v=aB9G89AuSv4
 
 <p align="center">
-  <img src="http://img.youtube.com/vi/aB9G89AuSv4/0.jpg" alt="Telepresence Demonstration"/>
+  <img src="https://github.com/clflushentitypacket/Telepresence/blob/master/Screenshots/demo_screenshot.png" alt="Telepresence Demonstration"/>
 </p>
 
 The avatar appearing in front of Jerry will have the same real-time facial expressions and speech as Tom.  Jerry will be able to chat to Tom as if he is right in front of him – and vice versa.

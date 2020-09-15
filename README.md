@@ -6,7 +6,7 @@ Feel free to drop me an email on flushedentitypacket@gmail.com if you have any q
 
 Telepresence is an open-source demo showcasing the viability of augmented reality real-time communication (and the fruit of having too much free time over lockdown). Telepresence can be run on any iPhone X devices or later.
 
-Suppose we have two people, Tom and Jerry. Telepresence allows Tom and Jerry to communicate with each other in a similar way to video chat. The difference is that Tom will appear right in front of Jerry (and vice versa) as a Holographic avatar via Jerry's iPhone's augmented reality capabilities. Here is a video demonstration of Telepresence in action: https://www.youtube.com/watch?v=aB9G89AuSv4
+Suppose we have two people, Tom and Jerry. Telepresence allows Tom and Jerry to communicate with each other in a similar way to video chat. The difference is that Tom will appear right in front of Jerry (and vice versa) as a Holographic avatar via Jerry's iPhone's augmented reality capabilities. Here is a video demonstration of Telepresence in action: <a href="https://www.youtube.com/watch?v=aB9G89AuSv4" target="_blank">https://www.youtube.com/watch?v=aB9G89AuSv4</a> 
 
 The avatar appearing in front of Jerry will have the same real-time facial expressions and speech as Tom.  Jerry will be able to chat to Tom as if he is right in front of him – and vice versa.
 

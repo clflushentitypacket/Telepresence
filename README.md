@@ -14,6 +14,7 @@ Suppose we have two people, Tom and Jerry. Telepresence allows Tom and Jerry to 
 The avatar appearing in front of Jerry will have the same real-time facial expressions and speech as Tom.  Jerry will be able to chat to Tom as if he is right in front of him – and vice versa.
 
 The avatar can be any suitably rigged 3d-model but the technology does not currently exist, however, to make it look like the user in real-time.
+
 In time one would expect augmented reality real-time communication will become an important new category of real-time communication in its own right, perhaps even the successor to video and audio chat before it.
 
 # Installation Instructions

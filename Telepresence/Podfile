@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Telepresence' do
+ platform :ios, '9.0'
+ pod 'Firebase/Analytics'
+ pod 'Firebase/Auth'
+ pod 'Firebase/Firestore'
+end
+
+# If the following code ios removed a load of yellow deplyoment target errors crop up in xcode. I got this fix from stack exchange
+
+post_install do |lib|
+    lib.pods_project.targets.each do |target|
+        target.build_configurations.each do |config|
+            config.build_settings.delete 'IPHONEOS_DEPLOYMENT_TARGET'
+        end
+    end
+end
+

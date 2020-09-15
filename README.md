@@ -1,6 +1,3 @@
-# Telepresence
-Telepresence is an open-source demo showcasing the viability of augmented reality real-time communication
-
 # Contact
 
 Feel free to drop me an email on flushedentitypacket@gmail.com if you have any questions whatsoever.

@@ -75,10 +75,10 @@ The following instructions detail how to import Polywink's sample model into Tel
 12. Rename the node (in the scene graph) from Neutral to Head
 13. In both the files TestViewController.swift and CallViewController.swift uncomment the line “dropNode.position.y = 0.032”
 
-### License
+# License
 
 Telepresence is licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/). For educational, personal or indie dev use the NC-ND part will almost certainly be waived - just drop me an email.
 
-### Credits
+# Credits
 
 The WebRTC part of this project includes one or two minor code snippets from https://github.com/stasel/WebRTC-iOS/blob/master/LICENSE.md
